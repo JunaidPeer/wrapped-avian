@@ -1,13 +1,56 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  margin: 20px 5% 5% 5%;
+  font-family: konnectMedium;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: konnectLight;
+  src: url(./fonts/KonnectLight.otf);
+}
+@font-face {
+  font-family: konnectBold;
+  src: url(./fonts/KonnectBold.otf);
+}
+@font-face {
+  font-family: konnectMedium;
+  src: url(./fonts/KonnectMedium.otf);
+}
+
+.btn {
+  background: linear-gradient(90deg, #34E2D5 0%, #17A7B6 100%);
+  border: none;
+  border-radius: 8px;
+  width: 400px;
+  height: 76px;
+
+  font-family: konnectMedium;
+  font-style: medium;
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.btn1 {
+  
+width: 200px;
+height: 76px;
+border: 2px solid #17A7B6;
+border-radius: 6px;
+
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px 31px;
+margin: auto;
+margin-left: 20px;
+
+color: #17A7B6;
+font-family: konnectMedium;
+font-style: medium;
+font-weight: 500;
+font-size: 20px;
+cursor: pointer;
 }
