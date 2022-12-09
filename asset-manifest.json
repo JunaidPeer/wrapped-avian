@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wrapped-avian/static/css/main.66a8db15.css",
-    "main.js": "/wrapped-avian/static/js/main.67c93666.js",
+    "main.js": "/wrapped-avian/static/js/main.010e0137.js",
     "static/media/swap_image.svg": "/wrapped-avian/static/media/swap_image.fba59e9d09e4e4a5f8b0d15adb667a11.svg",
     "static/media/KonnectMedium.otf": "/wrapped-avian/static/media/KonnectMedium.680598ed08a2b3a93a46.otf",
     "static/media/KonnectLight.otf": "/wrapped-avian/static/media/KonnectLight.7cf89f211d8f503947d3.otf",
@@ -9,10 +9,10 @@
     "static/media/logo.svg": "/wrapped-avian/static/media/logo.31e44c9174282ca8d87011eb2f38c88f.svg",
     "index.html": "/wrapped-avian/index.html",
     "main.66a8db15.css.map": "/wrapped-avian/static/css/main.66a8db15.css.map",
-    "main.67c93666.js.map": "/wrapped-avian/static/js/main.67c93666.js.map"
+    "main.010e0137.js.map": "/wrapped-avian/static/js/main.010e0137.js.map"
   },
   "entrypoints": [
     "static/css/main.66a8db15.css",
-    "static/js/main.67c93666.js"
+    "static/js/main.010e0137.js"
   ]
 }
